@@ -1,0 +1,181 @@
+Event	ID	Name			Wwise Object Path	Notes
+	9714164	End_FireGem_Player			\Default Work Unit\Main\Magic\End_FireGem_Player	
+	32029953	Pain_Goblin			\Default Work Unit\Main\Pain\Pain_Goblin	
+	52370326	Pain_Slith			\Default Work Unit\Main\Pain\Pain_Slith	
+	87064326	Pain_Rhino			\Default Work Unit\Main\Pain\Pain_Rhino	
+	157639802	Rumble			\Default Work Unit\Main\Rumble	
+	157654016	Fire_Fireball_Monster			\Default Work Unit\Main\Magic\Fire_Fireball_Monster	
+	160686570	SplashIn_Monster			\Default Work Unit\Main\SplashIn_Monster	
+	199291532	Fire_Slimeball_Monster			\Default Work Unit\Main\Magic\Fire_Slimeball_Monster	
+	219497941	NoMagic			\Default Work Unit\Main\NoMagic	
+	227445756	ItemHealth200			\Default Work Unit\Main\ItemHealth200	
+	360217301	End_Slimeball_Monster			\Default Work Unit\Main\Magic\End_Slimeball_Monster	
+	375266055	Defeated_Goblin			\Default Work Unit\Main\Defeated\Defeated_Goblin	
+	401958326	Grunt_Slith			\Default Work Unit\Main\Grunt\Grunt_Slith	Posted when monster sees player and wakes up from sleeping state
+	427908151	Defeated_Ogre			\Default Work Unit\Main\Defeated\Defeated_Ogre	
+	436652326	Grunt_Rhino			\Default Work Unit\Main\Grunt\Grunt_Rhino	Posted when monster sees player and wakes up from sleeping state
+	530129416	Teleport			\Default Work Unit\Main\Teleport	
+	674522502	Land			\Default Work Unit\Main\Land	
+	779629997	Spawn_Monster			\Default Work Unit\Main\Spawn_Monster	
+	784615425	Fire_Bite_Monster			\Default Work Unit\Main\Magic\Fire_Bite_Monster	
+	840179825	Fire_Iceball_Monster			\Default Work Unit\Main\Magic\Fire_Iceball_Monster	
+	856071815	Grunt_Bauul			\Default Work Unit\Main\Grunt\Grunt_Bauul	Posted when monster sees player and wakes up from sleeping state
+	908277812	Defeated_Slith			\Default Work Unit\Main\Defeated\Defeated_Slith	
+	930941543	Pain_Bauul			\Default Work Unit\Main\Pain\Pain_Bauul	
+	1052365209	PupMagic			\Default Work Unit\Main\PupMagic	
+	1098487589	Fire_LightningGem_Player			\Default Work Unit\Main\Magic\Fire_LightningGem_Player	
+	1110865203	Hit_Fireball_Monster			\Default Work Unit\Main\Magic\Hit_Fireball_Monster	
+	1125681085	ItemSpawn			\Default Work Unit\Main\ItemSpawn	
+	1207059019	Pain_Knight			\Default Work Unit\Main\Pain\Pain_Knight	
+	1278524204	Defeated_Rhino			\Default Work Unit\Main\Defeated\Defeated_Rhino	
+	1379053034	Spawn_Player			\Default Work Unit\Main\Spawn_Player	
+	1532553273	Foot_Ogre			\Default Work Unit\Main\Foot\Foot_Ogre	
+	1542346421	Defeated_Knight			\Default Work Unit\Main\Defeated\Defeated_Knight	
+	1620107411	Fire_PoisonGem_Player			\Default Work Unit\Main\Magic\Fire_PoisonGem_Player	
+	1636303851	Grunt_Knight			\Default Work Unit\Main\Grunt\Grunt_Knight	Posted when monster sees player and wakes up from sleeping state
+	1698673413	Pain_Rat			\Default Work Unit\Main\Pain\Pain_Rat	
+	1758594367	Map_Loaded			\Default Work Unit\Main\Map_Loaded	
+	1894362767	Foot_Player			\Default Work Unit\Main\Foot\Foot_Player	
+	1922349781	Defeated_Bauul			\Default Work Unit\Main\Defeated\Defeated_Bauul	
+	1996139369	Pain			\Default Work Unit\Main\Pain\Pain	
+	2007968988	End_Iceball_Monster			\Default Work Unit\Main\Magic\End_Iceball_Monster	
+	2052767559	Foot_Knight			\Default Work Unit\Main\Foot\Foot_Knight	
+	2057306229	Foot_Goblin			\Default Work Unit\Main\Foot\Foot_Goblin	
+	2117476293	Fire_IceGem_Monster			\Default Work Unit\Main\Magic\Fire_IceGem_Monster	
+	2202981293	Grunt_Ogre			\Default Work Unit\Main\Grunt\Grunt_Ogre	Posted when monster sees player and wakes up from sleeping state
+	2323254379	Hit_FireGem_Monster			\Default Work Unit\Main\Magic\Hit_FireGem_Monster	
+	2390793602	Fire_IceGem_Player			\Default Work Unit\Main\Magic\Fire_IceGem_Player	
+	2437085230	SwitchMagic			\Default Work Unit\Main\SwitchMagic	
+	2460807274	Fire_FireGem_Monster			\Default Work Unit\Main\Magic\Fire_FireGem_Monster	
+	2465710861	Pain_Ogre			\Default Work Unit\Main\Pain\Pain_Ogre	
+	2484024762	Fire_Staff_Player			\Default Work Unit\Main\Magic\Fire_Staff_Player	
+	2521139513	ItemMagic			\Default Work Unit\Main\ItemMagic	
+	2677419351	ItemHealth100			\Default Work Unit\Main\ItemHealth100	
+	2677919691	Foot_Bauul			\Default Work Unit\Main\Foot\Foot_Bauul	
+	2706330144	Hit_FireGem_Player			\Default Work Unit\Main\Magic\Hit_FireGem_Player	
+	2798325225	Foot_Rat			\Default Work Unit\Main\Foot\Foot_Rat	
+	2921530952	Fire_LightningGem_Monster			\Default Work Unit\Main\Magic\Fire_LightningGem_Monster	
+	3024368545	Hit_Slimeball_Monster			\Default Work Unit\Main\Magic\Hit_Slimeball_Monster	
+	3137127082	SuperGemPup			\Default Work Unit\Main\SuperGemPup	
+	3373753397	Teleporter			\Default Work Unit\Main\Teleporter	
+	3507659693	Defeated_Hellpig			\Default Work Unit\Main\Defeated\Defeated_Hellpig	
+	3682968165	Defeated_Player			\Default Work Unit\Main\Defeated\Defeated_Player	
+	3732061108	PupOut			\Default Work Unit\Main\PupOut	
+	3808688735	End_FireGem_Monster			\Default Work Unit\Main\Magic\End_FireGem_Monster	
+	3825277969	ItemWizardHat100			\Default Work Unit\Main\ItemWizardHat100	
+	3826003282	Foot_Rhino			\Default Work Unit\Main\Foot\Foot_Rhino	
+	3833651337	Jump			\Default Work Unit\Main\Jump	
+	3838741285	Grunt_Rat			\Default Work Unit\Main\Grunt\Grunt_Rat	Posted when monster sees player and wakes up from sleeping state
+	3875610858	ItemWizardHat150			\Default Work Unit\Main\ItemWizardHat150	
+	3877293442	Foot_Slith			\Default Work Unit\Main\Foot\Foot_Slith	
+	3877942876	SplashOut_Player			\Default Work Unit\Main\SplashOut_Player	
+	3952911171	Defeated_Rat			\Default Work Unit\Main\Defeated\Defeated_Rat	
+	3954482959	SplashIn_Player			\Default Work Unit\Main\SplashIn_Player	
+	3954861711	Fire_FireGem_Player			\Default Work Unit\Main\Magic\Fire_FireGem_Player	
+	3957683912	Hit_Iceball_Monster			\Default Work Unit\Main\Magic\Hit_Iceball_Monster	
+	3999919399	SplashOut_Monster			\Default Work Unit\Main\SplashOut_Monster	
+	4013911457	Grunt_Goblin			\Default Work Unit\Main\Grunt\Grunt_Goblin	Posted when monster sees player and wakes up from sleeping state
+	4052749775	Pain_HellPig			\Default Work Unit\Main\Pain\Pain_HellPig	
+	4053570031	Grunt_HellPig			\Default Work Unit\Main\Grunt\Grunt_HellPig	Posted when monster sees player and wakes up from sleeping state
+	4149105284	JumpPad			\Default Work Unit\Main\JumpPad	
+	4214542295	End_Fireball_Monster			\Default Work Unit\Main\Magic\End_Fireball_Monster	
+	4226354843	Foot_HellPig			\Default Work Unit\Main\Foot\Foot_HellPig	
+	4290568846	Fire_PoisonGem_Monster			\Default Work Unit\Main\Magic\Fire_PoisonGem_Monster	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Material			
+	841620460	Concrete	Material			
+	1216965916	Stone	Material			
+	2058049674	Wood	Material			
+	2185786256	Gravel	Material			
+	2473969246	Metal	Material			
+	2637588553	Tile	Material			
+	2654748154	Water	Material			
+	4248645337	Grass	Material			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	151362964	PlayerHealth			\Default Work Unit\PlayerHealth	
+
+Effect plug-ins	ID	Name	Type				Notes
+	652610570	Default (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	593025620	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Silence\Wwise Silence	
+	739702003	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	730043	Pain_Rhino2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Rhino2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rhino\Pain_Rhino2		121344
+	5790564	Vocal_Woohoo	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Woohoo_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Vocal_Woohoo		129200
+	15194839	Pain_Rhino1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Rhino1_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rhino\Pain_Rhino1		252416
+	28030834	FS_Dirt4	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_FB9586F5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt4		60944
+	31614497	Pain_Ogre1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Ogre1_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Ogre\Pain_Ogre1		252416
+	128265682	FS_Dirt5	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_9C751B47.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt5		66112
+	152816379	Grunt_Ogre	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Grunt_Ogre_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Grunt_Ogre\Grunt_Ogre		252416
+	163463442	Item_Magic	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Item_PickUp_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Item_Magic		162736
+	182622631	Fire_Blast	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Fire_Blast_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\FireBall\Fire_Blast		252416
+	218468796	Man_Pain2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Man_Pain2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Man_Pain2		30528
+	248379665	FS_Tile5	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_E8EC5EC4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile5		95824
+	250163800	Heartbeat	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Hearbeat_Mine_E2D42929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Heartbeat		104916
+	269241456	Whoosh 2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Whoosh 2_1044C82E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Whoosh 2		3563
+	276624312	FS_Dirt6	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_BF0EF4B1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt6		61516
+	283749429	Body_Impact	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Body_Hit_4ADB80CE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Body_Impact		121344
+	286636231	IceGem_Blast	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Ice_Blast3_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\IceGem_Blast		33244
+	318536364	FS_Dirt1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_75DE1F23.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt1		52398
+	329717917	Gem_Break2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Break2_EFD32039.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Tail\Gem_Break2		18540
+	337863498	Death_Choke	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Death_Choke_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Defeated\Death_Choke		252416
+	370987901	Gem_Recharge_Woosh	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Recharge1_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Recharge\Gem_Recharge_Woosh		15601
+	392320518	Poison_Blast2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Poison_Blast2_F950AE65.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem Magic\Poison_Blast2		7204
+	410841993	FS_Tile4	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_C99653D3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile4		85296
+	415662025	NoMagic	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\NoAmmo_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\NoMagic	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	35970
+	416071581	Pain_Rat1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Rat1_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rat\Pain_Rat1		121344
+	417421536	FS_Tile2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_32D82D6A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile2		104440
+	445443971	Grunt_Rat	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Grunt_Rat_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Grunt_Rat\Grunt_Rat		252416
+	471973040	FS_Dirt2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_C7BA75DE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt2		70702
+	475591834	FS_Tile1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_34D371CB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile1		86316
+	476114705	Jump_Land	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Jump_D737D7B4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Jump_Land		57228
+	543101328	Vocal_Heh_Ha	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Heh_Ha_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Gem_Pickup_Voice\Vocal_Heh_Ha		127152
+	574495097	Vocal_Woahhoo	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Woahhoo_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Gem_Pickup_Voice\Vocal_Woahhoo		106672
+	596192615	FS_Metal_02	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Metal_6EE1889C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Metal\FS_Metal_02		83330
+	615518545	Vocal_Whoah	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Whoah_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Gem_Pickup_Voice\Vocal_Whoah		87104
+	653939377	Gem_Break1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Break1_DC992C53.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Tail\Gem_Break1		15777
+	672234158	Pain_Rat2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Rat2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Rat\Pain_Rat2		121344
+	691557711	Pain_Ogre2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Pain_Ogre2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Ogre\Pain_Ogre2		252416
+	695234320	Rumble	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Access_ButtonPush_72F8B093.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Rumble		23227
+	695344571	FS_Tile6	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_406C2112.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile6		86252
+	697221779	Man_Pain3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Man_Pain3_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Man_Pain3		31040
+	703272463	Jump	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Jump_63FCCF38.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Jump\Jump		46066
+	705110681	FS_Metal_04	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Metal_34F20B7F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Metal\FS_Metal_04		113628
+	716818633	FS_Tile3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Tile_08E8BDB7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Tile\FS_Tile3		126458
+	748345099	Monster_Spawn	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Monster_Spawn_Mine_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Monster Spawn\Monster_Spawn		64798
+	751926552	Defeated_Rat	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Defeated_Rat_Mine_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Rat	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	252416
+	758789768	Gem_Recharge_Magic	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Recharge2_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Recharge\Gem_Recharge_Magic		37647
+	807308419	Whoosh 4	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Whoosh 4_1044C82E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Whoosh 4		3164
+	807626862	Whoosh 3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Whoosh 3_1044C82E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Whoosh 3		3892
+	835338453	Gem_Hit3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Hit3_9D89D052.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Head\Gem_Hit3		6013
+	856338343	Vocal_Fight	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Fight_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Fight_Vocal\Vocal_Fight		55616
+	875559117	Gem_Hit2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Hit2_7E9C299F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Head\Gem_Hit2		7119
+	912419163	FS_Metal_01	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Metal_3919BAAC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Metal\FS_Metal_01		61008
+	916105981	Dead_Sigh	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Dead_Sigh_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Defeated\Dead_Sigh		122432
+	939378231	Vocal_ScreamYell	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_ScreamYell_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Vocal_ScreamYell		116288
+	942844085	Poison_Blast1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Poison_Blast1_F950AE65.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem Magic\Poison_Blast1		7253
+	943879205	FS_Metal_03	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Metal_0C58F972.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Metal\FS_Metal_03		90220
+	961830168	Vocal_Fight2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Vocal_Fight2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Fight_Vocal\Vocal_Fight2		33600
+	989628283	Gem_Hit1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Hit1_F62B7382.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Head\Gem_Hit1		4008
+	995891795	Whoosh 1	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Whoosh 1_1044C82E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Whoosh 1		2522
+	1004269904	FS_Dirt3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Footsteps_Dirt_003FEEA2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Dirt\FS_Dirt3		56924
+	1004415006	Grunt_Rhino	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Grunt_Rhino_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Grunt_Rhino\Grunt_Rhino		252416
+	1026015502	Gasp_2	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gasp_2_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Gasp_2		35392
+	1034178205	Defeated_Rhino	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Defeated_Rhino_Mine_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Rhino	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	252416
+	1039336051	Man_Pain4	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Man_Pain4_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Man_Pain4		50752
+	1042407006	Defeated_Slith	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Defeated_Ogre_Mine_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Slith	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	252416
+	1048908007	Man_Pain	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Man_Pain_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Voice\Pain\Man_Pain		34368
+	1069337843	PoisonGem_Bubble	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Poison_Bubbles_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\PoisonGem Magic\PoisonGem_Bubble		10946
+	1069883799	SwitchMagic	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Switch_Magic_Mine_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\SwitchMagic		110097
+	1073388982	Gem_Break3	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Gem_Break3_FE61D84B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Tail\Gem_Break3		9094
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	129964037	Cube_Main_Theme	Y:\Documents\GitHub\5.-Project3_CubeRedesign\Project3_WwiseProject\.cache\Windows\SFX\Cubetrack_775CB38D.wem	129964037.wem	\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Cube_Main_Theme	
+
